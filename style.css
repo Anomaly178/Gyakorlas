@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: rgb(49, 31, 66);
+}
+img{
+    width: 200px;
+    float: right;
+    margin-right: 20px;
+}
